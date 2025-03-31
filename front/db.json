@@ -1,0 +1,15 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "name": "Nike Air Max",
+        "imageUrl": "https://example.com/nike.jpg",
+        "description": "Комфортне взуття для бігу.",
+        "brand": "Nike",
+        "model": "Air Max 2023",
+        "price": 150,
+        "size": 42
+      }
+    ]
+  }
+  
