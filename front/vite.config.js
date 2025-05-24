@@ -13,7 +13,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/shoes': {
-        target: 'http://localhost:9090/Lab_2_Shoes-1.0-SNAPSHOT/',
+        target: 'http://localhost:8080/Lab_2_Shoes-1.0-SNAPSHOT/',
         changeOrigin: true,
         secure: false
       }
